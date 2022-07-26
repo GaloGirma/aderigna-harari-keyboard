@@ -3,14 +3,14 @@
         android:keyWidth="10%p"
         android:keyHeight="50dp">
         <Row>
-            <Key android:keyLabel="ጠ" android:keyWidth="12.5%p" android:keyEdgeFlags="left" android:codes="4896"/>
-            <Key android:keyLabel="ጡ" android:keyWidth="12.5%p" android:codes="4897"/>
-            <Key android:keyLabel="ጢ" android:keyWidth="12.5%p" android:codes="4898"/>
-            <Key android:keyLabel="ጣ" android:keyWidth="12.5%p" android:codes="4899"/>
-            <Key android:keyLabel="ጤ" android:keyWidth="12.5%p" android:codes="4900"/>
-            <Key android:keyLabel="ጥ" android:keyWidth="12.5%p" android:codes="4901"/>
-            <Key android:keyLabel="ጦ" android:keyWidth="12.5%p" android:codes="4902"/>
-            <Key android:keyLabel="ጧ" android:keyWidth="12.5%p" android:keyEdgeFlags="right" android:codes="4903"/>
+
+            <Key android:keyLabel="ⶨ" android:keyWidth="14.5%p" android:keyEdgeFlags="left" android:codes="11688"/>
+            <Key android:keyLabel="ⶩ" android:keyWidth="14.5%p" android:codes="11689"/>
+            <Key android:keyLabel="ⶪ" android:keyWidth="14.5%p" android:codes="11690"/>
+            <Key android:keyLabel="ⶫ" android:keyWidth="14.5%p" android:codes="11691"/>
+            <Key android:keyLabel="ⶬ" android:keyWidth="14.5%p" android:codes="11692"/>
+            <Key android:keyLabel="ⶭ" android:keyWidth="14.5%p"  android:codes="11693"/>
+            <Key android:keyLabel="ⶮ" android:keyWidth="14.5%p" android:keyEdgeFlags="right" android:codes="11694"/>
         </Row>
     <Row>
         <Key android:keyLabel="ጠ" android:keyEdgeFlags="left" android:codes="4896"/>
