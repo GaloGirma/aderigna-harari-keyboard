@@ -284,7 +284,7 @@ public class Aderigna_Keyboard extends InputMethodService implements KeyboardVie
 
                     key_family = 43808;
                     first_time_selected = 0;
-                    keyboard = new Keyboard(this, R.xml.cccc);
+                    keyboard = new Keyboard(this, R.xml.ddd);
                     keyboardView.setKeyboard(keyboard);
                     keyboardView.setOnKeyboardActionListener(this);
                     break;
